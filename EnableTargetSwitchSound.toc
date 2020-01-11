@@ -1,0 +1,9 @@
+## Interface: 80205
+## Title: |cff71C671EnableTargetSwitchSound|r
+## Notes: Enables the default target switch sound which is disabled by ElvUI.
+## Version: 1.0.0
+## Author: Vincent Van Ouytsel
+## DefaultState: enabled
+## Dependencies: ElvUI
+
+EnableTargetSwitchSound.lua
